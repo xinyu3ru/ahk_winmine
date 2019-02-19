@@ -1,0 +1,34 @@
+Text_mine:="|<雷>*96$13.0U0E2yUzUnsNwzzbz3zUzUjc100UE"
+Text_1:="|<1>*96$7.677bksQC78"
+Text:="|<2>*96$10.Tvzy70Q7VwT3kDzzy"
+Text:="|<3>*96$10.zvzk70QTVy0Q1zzzu"
+Text:="|<4>*96$10.CsvbCQvzzz0s3UC0u"
+Text:="|<5>*96$10.zzzy0s3zjz0Q1zzzu"
+Text:="|<6>*96$10.Tvzi0s3zjzsTVzzTu"
+Text:="|<红旗>*96$8.67XsS1U823nzzs"
+Text:="|<失败>*96$17.0y0630E11014cd8UWWWX00600A00MDUcUWG0YE0EE10MA0DUE"
+Text:="|<未点开>0xC0C0C0@1.00$16.00400XzwDzkzz3zwDzkzz3zwDzkzz3zwDzkzz400U02"
+Text:="|<正常>*96$17.0y0630E11014018lWVX300600A00MU8cUWEy4E0EE10MA0DUE"
+Text:="|<胜利>*96$17.0y0630E11014019zmbrnLjL6AQ00M00cUWEy4E0EE10MA0DUE"
+|<空格>0xC0C0C0@1.00$16.001zzrzzTzxzzrzzTzxzzrzzTzxzzrzzTzxzzrzzTzy
+
+
+MINE_UNCLK  = 0;
+MINE_1      = 1;
+MINE_2      = 2;
+MINE_3      = 3;
+MINE_4      = 4;
+MINE_5      = 5;
+MINE_6      = 6;
+MINE_BLANK  = 9;
+MINE_YES   = 10;
+MINE_COUNT 
+
+MINE_UNKOWN = 11;
+MINE_NOMINE = 12;
+MINE_FLAG   = 13;
+MINE_CLKED  = 14;
+MINE_DICEYD = 15;
+
+
+Text_to_find :="|<雷>*96$13.0U0E2yUzUnsNwzzbz3zUzUjc100UE|<1>*96$7.677bksQC78|<2>*96$10.Tvzy70Q7VwT3kDzzy|<3>*96$10.zvzk70QTVy0Q1zzzu|<4>*96$10.CsvbCQvzzz0s3UC0u|<5>*96$10.zzzy0s3zjz0Q1zzzu|<6>*96$10.Tvzi0s3zjzsTVzzTu|<红旗>*96$8.67XsS1U823nzzs|<失败>*96$17.0y0630E11014cd8UWWWX00600A00MDUcUWG0YE0EE10MA0DUE|<未点开>0xC0C0C0@1.00$16.00400XzwDzkzz3zwDzkzz3zwDzkzz3zwDzkzz400U02|<空>0xC0C0C0@1.00$15.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzw|<正常>*96$17.0y0630E11014018lWVX300600A00MU8cUWEy4E0EE10MA0DUE|<胜利>*96$17.0y0630E11014019zmbrnLjL6AQ00M00cUWEy4E0EE10MA0DUE"
