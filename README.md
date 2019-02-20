@@ -5,9 +5,7 @@ ahk_winmine autohotkey扫雷
 
 - 使用autohotkey脚本软件进行扫雷。
 
-#### 其他
 
--
 
 #### 逻辑
 
@@ -23,7 +21,8 @@ ahk_winmine autohotkey扫雷
 #### To-Do
 
 - [x]给自己定个目标 :smile:
-- [ ]编写具体代码
+- [x]编写具体代码
+- [ ] 已知 1 bug，随机点击函数在二次调用（在子函数中调用）的时候会持续的点击界面和卡时间，并且造成随机点击失败。造成扫雷成功率低。
 
 #### >include/FindText.ahk
 - FeiYue 编写的好用的FindText程序。
