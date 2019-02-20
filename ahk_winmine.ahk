@@ -91,7 +91,7 @@ IfWinExist, ahk_exe ms_arbiter.exe
         if (is_random_click = 0)
         {
             ;Break
-            random_click()
+            random_click(1)
 
         }   
     }
